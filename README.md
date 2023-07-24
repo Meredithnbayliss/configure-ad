@@ -30,9 +30,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-In Step 1: We create a Resource Group inside Azure.
-
-<p>
+In Step 1: Create the Domain Controller VM (Windows Server 2022) named “DC-1
+</p>
+</p>
 <img src="https://i.imgur.com/C1atwQb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
