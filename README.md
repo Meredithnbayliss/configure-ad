@@ -171,7 +171,7 @@ Login to DC-1 as jane_admin
 
 Open PowerShell_ise as an administrator.
 
-Create a new File and paste the contents of this script $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ into it. Run the script and observe the accounts being made
+Create a new File and paste the contents of this script (https://github.com/Meredithnbayliss/configure-ad/blob/main/adscripts.1) into it. Run the script and observe the accounts being made
 </p>
 </p>
 <img src="https://i.imgur.com/pfP7kZ0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
